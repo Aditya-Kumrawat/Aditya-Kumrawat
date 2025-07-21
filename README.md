@@ -15,7 +15,7 @@
 
 ## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=oython,html,css,cpp,c,react,node,express,firebase,tensorflow)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=oython,html,css,cpp,c,react,node.js,express,firebase,tensorflow)](https://skills.thijs.gg)
 
 
 ## 🤝 Let's get Connected
