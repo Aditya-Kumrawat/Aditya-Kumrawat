@@ -13,10 +13,6 @@
 <div align="center">
   <img src="./banner4.png" width="100%"/>
 </div>
-<div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=17&duration=2500&pause=800&color=000000&background=FFE000&center=true&vCenter=true&width=780&height=42&lines=→+BUILDING+TERRAQUERY+%3A%3A+WORLD%27S+FIRST+PLANETARY+INTELLIGENCE+ENGINE;→+TRAINED+ROBOTIC+ARMS+VIA+REINFORCEMENT+LEARNING+%3A%3A+SmolVLA+%2B+ACT;→+8%2B+HACKATHON+WINS+%3A%3A+NATIONAL+%2B+INTERNATIONAL;→+PUBLISHED+RESEARCHER+%3A%3A+SICA+INTERNATIONAL+CONFERENCE+2024;→+TURNING+48HR+GIS+PIPELINES+INTO+300+SECONDS+FLAT)](https://github.com/Aditya-Kumrawat)
-
-</div>
 
 <br/>
 
@@ -46,7 +42,6 @@
 <br/>
 
 <div align="center">
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&text=%5B%2007%20%5D%20%20TROPHIES&fontSize=20&fontColor=FFE000&fontAlign=14&fontAlignY=55&animation=fadeIn" width="100%"/>
 
