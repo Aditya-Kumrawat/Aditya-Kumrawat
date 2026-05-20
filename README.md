@@ -14,6 +14,9 @@
   <img src="./banner4.png" width="100%"/>
 </div>
 <div align="center">
+  <img src="./banner5.png" width="100%"/>
+</div>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=8" width="100%"/>
 
@@ -243,68 +246,6 @@ Trained SO101 robotic arms using Vision-Language-Action models and RL algorithms
 </table>
 
 > ⚡ **1,294 contributions** in the last year — go to **Profile → Contribution Settings → enable Private Contributions** to show your full activity
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&text=%5B%2005%20%5D%20%20ACHIEVEMENTS&fontSize=20&fontColor=FFE000&fontAlign=17&fontAlignY=55&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### ⚔️ HACKATHON RECORD
-
-```
-BATTLE                      RESULT          FORMAT
-─────────────────────────────────────────────────────
-HackWave 2.0                WINNER    ──    36hr National
-AI Fusion Hackathon         WINNER    ──    National
-Kriyeta 5.0                 RUNNER-UP ──    36hr National
-Innovik 5.0                 RUNNER-UP ──    24hr National
-SnowHacks                   RUNNER-UP ──    National
-Mediverse                   RUNNER-UP ──    12hr
-Datacraft MongoDB           RUNNER-UP ──    National
-Tech-O-Tsav                 RUNNER-UP ──    Web + Innovation
-LaserHack @ Lasell USA 🇺🇸   TOP 4     ──    International
-─────────────────────────────────────────────────────
-8+ WINS  ·  15+ BATTLES  ·  NEVER QUIT
-```
-
-</td>
-<td width="45%" valign="top">
-
-### 📚 RESEARCH + RECOGNITION
-
-```
-AWARD                    VENUE
-──────────────────────────────────────────
-Published Paper          SICA Intl. Conf.
-                         2024
-Best Innovation Stall    IIC Regional Meet
-                         Govt. of India
-──────────────────────────────────────────
-```
-
-*"Designing Agentic AI Systems Using Deep Neural Networks in Dynamic Environments"*
-→ **40% improvement** over rule-based systems
-
-### 🏛️ LEADERSHIP
-```
-Student In-Charge  ·  Robotics Lab
-                       Solo Tech USA × AITR
-ACM Chapter        ·  Designer & Content Lead
-                       200+ members · 1K+ reach
-```
-
-</td>
-</tr>
-</table>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&text=%5B%2006%20%5D%20%20CERTIFICATIONS&fontSize=20&fontColor=FFE000&fontAlign=20&fontAlignY=55&animation=fadeIn" width="100%"/>
 
