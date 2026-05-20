@@ -1,13 +1,3 @@
-<div align="center">
-
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ADITYA%20KUMRAWAT&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%7C%20AI%2FML%20Engineer%20%7C%20Earth%20Intelligence%20Architect&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
-<!--
-╔═══════════════════════════════════════════════════════════════════════════╗
-║               ADITYA KUMRAWAT — GITHUB PROFILE README                    ║
-║                    Sovereign Intelligence Edition                         ║
-╚═══════════════════════════════════════════════════════════════════════════╝
--->
 
 <div align="center">
 
