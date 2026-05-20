@@ -37,8 +37,6 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&text=%5B%2006%20%5D%20%20CERTIFICATIONS&fontSize=20&fontColor=FFE000&fontAlign=20&fontAlignY=55&animation=fadeIn" width="100%"/>
-
 <br/>
 
 <div align="center">
