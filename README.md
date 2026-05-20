@@ -1,309 +1,289 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0f0c29,70:302b63,100:a78bfa&height=220&section=header&text=Aditya%20Kumrawat&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=FOUNDER%20%7C%20AI%2FML%20ENGINEER%20%7C%20EARTH%20INTELLIGENCE%20ARCHITECT&descFontColor=a78bfa&descAlignY=65&descSize=14&stroke=a78bfa&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=8" width="100%"/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFE000&height=160&text=ADITYA%20KUMRAWAT&fontSize=72&fontColor=000000&fontAlign=50&fontAlignY=55&desc=FOUNDER%20%2F%2F%20AI%20ENGINEER%20%2F%2F%20EARTH%20INTELLIGENCE&descSize=13&descFontColor=000000&descAlignY=80&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=800&lines=🛰️+Founder+%40+TerraQuery+—+World's+First+Planetary+Intelligence+Engine;🤖+Training+Robotic+Arms+via+SmolVLA+%26+Reinforcement+Learning;🧠+Agentic+AI+%7C+Earth+Observation+%7C+Full-Stack+Dev;🏆+8%2B+Hackathon+Champion+%7C+Published+AI+Researcher;⚡+Turning+48-hour+GIS+pipelines+into+300+seconds)](https://github.com/Aditya-Kumrawat)
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Kumrawat&style=flat-square&color=a78bfa&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/Aditya-Kumrawat)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Aditya-Kumrawat?style=flat-square&color=00ff88&labelColor=0D1117&label=Followers&logo=github)](https://github.com/Aditya-Kumrawat?tab=followers)
-&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/Aditya-Kumrawat?style=flat-square&color=ffd700&labelColor=0D1117&label=Stars&logo=github)](https://github.com/Aditya-Kumrawat)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=8" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## `$ whoami`
+<div align="center">
 
-```yaml
-# ─────────────────────────────────────────────────────────────────────────
-#  ADITYA KUMRAWAT  ·  AI/ML Engineer & Full-Stack Dev  ·  Founder
-# ─────────────────────────────────────────────────────────────────────────
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=17&duration=2500&pause=800&color=000000&background=FFE000&center=true&vCenter=true&width=780&height=42&lines=→+BUILDING+TERRAQUERY+%3A%3A+WORLD%27S+FIRST+PLANETARY+INTELLIGENCE+ENGINE;→+TRAINED+ROBOTIC+ARMS+VIA+REINFORCEMENT+LEARNING+%3A%3A+SmolVLA+%2B+ACT;→+8%2B+HACKATHON+WINS+%3A%3A+NATIONAL+%2B+INTERNATIONAL;→+PUBLISHED+RESEARCHER+%3A%3A+SICA+INTERNATIONAL+CONFERENCE+2024;→+TURNING+48HR+GIS+PIPELINES+INTO+300+SECONDS+FLAT)](https://github.com/Aditya-Kumrawat)
 
-identity:
-  location: "Indore, India 🇮🇳"
-  education: "B.Tech CSIT @ Acropolis Institute of Technology (RGPV) · 2027"
+</div>
 
-live_missions:
-  - role: "Founder & Lead AI Engineer"
-    org: "TerraQuery — Sovereign Agentic AI for Earth Observation"
-    since: "January 2026"
-    focus: "10-node LangGraph fleet · Sentinel satellite pipelines · Defense intel"
+<br/>
 
-  - role: "Student In-Charge"
-    org: "Robotics Lab — Solo Tech USA × Acropolis"
-    since: "2023"
-    focus: "SO101 robotic arms · SmolVLA · ACT · RL policy training"
-
-achievements:
-  hackathons:   "8+ wins across national & international competitions"
-  research:     "Published @ SICA International Conference 2024"
-  government:   "Best Innovation — IIC Regional Meet (Govt. of India)"
-  international: "Top 4 — LaserHack, Lasell University USA 🇺🇸"
-  certifications: "18+ from ISRO · NVIDIA · Stanford · Google · Microsoft · Harvard"
-
-currently_building: ["TerraQuery v2", "Agentic satellite reasoning", "Embodied AI systems"]
-open_to: ["Internships", "Research", "Collaborations", "Global opportunities"]
+```
+██████████████████████████████████████████████████████████████████████████████
+█                                                                            █
+█   ADITYA KUMRAWAT  //  B.Tech CSIT @ Acropolis, Indore  //  Batch 2027    █
+█                                                                            █
+█   Founder @ TerraQuery  ·  Robotics Lab In-Charge  ·  AI Researcher       █
+█   8+ Hackathon Wins  ·  18+ Certifications  ·  1,294 Contributions/yr     █
+█                                                                            █
+██████████████████████████████████████████████████████████████████████████████
 ```
 
----
-
-## `$ ls -la ./flagship-project`
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-00ff88?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STACK-LangGraph%20%7C%20Sentinel%20%7C%20GDAL-a78bfa?style=for-the-badge&labelColor=0d1117"/>
+![](https://img.shields.io/badge/INDORE%2C%20INDIA-000000?style=for-the-badge&labelColor=FFE000&color=000000)
+![](https://img.shields.io/badge/BATCH%202027-000000?style=for-the-badge&labelColor=000000&color=FFE000)
+![](https://img.shields.io/badge/OPEN%20TO%20WORK-000000?style=for-the-badge&labelColor=000000&color=00CC44)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/aditya-kumrawat27)
+[![GitHub](https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/Aditya-Kumrawat)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:aditya.kumrawat27@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=Aditya-Kumrawat&style=for-the-badge&color=FFE000&labelColor=000000&label=VIEWS)](https://github.com/Aditya-Kumrawat)
 
 </div>
 
-### 🛰️ TerraQuery — Sovereign Agentic AI for Earth Observation
+---
 
-> *The world's first hypothesis-driven planetary intelligence engine. No external mentorship. Built from first principles.*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&text=%5B%2001%20%5D%20%20FLAGSHIP%20MISSION&fontSize=20&fontColor=FFE000&fontAlign=20&fontAlignY=55&desc=&animation=fadeIn" width="100%"/>
 
-- 🤖 **10-node agentic fleet** via LangGraph — autonomous satellite reasoning at scale
-- ⚡ **48-hour GIS pipelines → 300 seconds** of verifiable intelligence generation
-- 🛡️ **CP-WBFT consensus logic** — hallucination-resistant distributed LLM agents
-- 🔐 **SHA-256 cryptographic evidence manifests** — chain-of-custody for carbon credits, disaster intel & maritime surveillance
-- 🌍 **Multi-sensor fusion**: ESA Sentinel-1/2/3/5P + NASA Earthdata + Google Earth Engine
-- 📡 **Capabilities**: Wildfire surveillance · Glacial tracking · Flood prediction · Defense-grade target identification
+<br/>
 
-`Python` `LangGraph` `Rasterio` `GDAL` `Sentinel API` `NASA MCP` `LLM`
+> ### 🛰️ TERRAQUERY — SOVEREIGN AGENTIC AI FOR EARTH OBSERVATION
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  STATUS   ██████████████████████████████░░░░  ACTIVE DEVELOPMENT        │
+│  STACK    LangGraph · Rasterio · GDAL · Sentinel API · LLM Agents       │
+│  SCOPE    Defense · Carbon Auditing · Disaster Intelligence             │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+**What it does:** A hypothesis-driven Earth observation engine. Ask it anything about the planet — it deploys a fleet of AI agents to pull live satellite data, process it, reason over it, and return verifiable intelligence. No human in the loop.
+
+| Capability | Detail |
+|---|---|
+| ⚡ **Speed** | 48-hour manual GIS workflow → **300 seconds** |
+| 🤖 **Architecture** | 10-node agentic fleet via LangGraph |
+| 🛡️ **Reliability** | CP-WBFT consensus — hallucination-resistant |
+| 🔐 **Integrity** | SHA-256 cryptographic evidence manifests |
+| 🌍 **Data Sources** | ESA Sentinel-1/2/3/5P · NASA Earthdata · Google Earth Engine |
+| 📡 **Use Cases** | Wildfire · Floods · Glaciers · Air quality · Maritime surveillance |
+
+`Python` `LangGraph` `Rasterio` `GDAL` `Sentinel API` `NASA MCP` `OpenAI`
 
 ---
 
-## `$ ls -la ./projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 HealthSaarthi
-**AI-Powered Healthcare Ecosystem**
-
-> *End-to-end healthcare platform with computer vision, IoT & AI diagnostics*
-
-- 🧠 87% disease detection accuracy — CNN on 10K+ medical images
-- 🏋️ AR/VR posture correction via YOLOv8 — 92% skeletal tracking accuracy
-- 📡 IoT wearable integration with Firebase for continuous health monitoring
-- 🚨 Emergency SOS with live ambulance tracking via Google Maps API
-
-`TensorFlow` `React` `OpenCV` `YOLOv8` `Node.js` `Firebase`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 AgroSaarthi
-**Precision Agriculture Disease Detection**
-
-> *CV-powered crop disease detection with treatment intelligence*
-
-- 🌿 94% accuracy across 38+ crop diseases — custom CNN on 50K+ images
-- 💊 Dynamic treatment engine powered by Gemma LLM
-- 🌦️ Real-time weather API + soil condition monitoring
-- 📊 Scan history with filtering, analytics & date range queries
-
-`Flask` `TypeScript` `React` `TensorFlow` `Firebase` `Gemma LLM`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📂 More Projects (click to expand)</b></summary>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&text=%5B%2002%20%5D%20%20PROJECT%20INDEX&fontSize=20&fontColor=FFE000&fontAlign=18&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**📚 Scholar AI**
-Academic integrity & proctoring platform — 96% plagiarism detection, 15+ cheating behaviours flagged via OpenCV + dlib, automated grading via Make.com.
+**■ HEALTHSAARTHI**
+`Healthcare AI Ecosystem`
 
-`OpenCV` `dlib` `NLP` `Gemini` `React`
+End-to-end healthcare platform with AI diagnostics, AR/VR exercise guidance, and IoT wearable integration.
 
-</td>
-<td width="33%" valign="top">
+- 87% disease detection accuracy — CNN on 10K+ medical images
+- 92% skeletal tracking accuracy via YOLOv8 pose estimation
+- ESP32 IoT continuous vitals + emergency SOS with live GPS
 
-**💊 Sanjivani**
-Personal Health OS for elderly — ESP32 IoT vitals monitoring, Emergency QR system, OCR pill scanner, RAG-powered multilingual health assistant.
-
-`Kotlin` `ESP32` `Firebase` `OpenFDA` `OCR`
+`TensorFlow` `React` `YOLOv8` `OpenCV` `Node.js` `Firebase`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**🤖 SO101 Robotics**
-Trained SO101 robotic arms on SmolVLA (Vision-Language-Action) and ACT (Action Chunking Transformer) policies. Taught strategic Tic-Tac-Toe via custom RL algorithms.
+**■ AGROSAARTHI**
+`Precision Agriculture`
 
-`SmolVLA` `ACT` `Python` `RL`
+CV-powered crop disease detection across 38+ diseases with LLM-driven treatment recommendations.
+
+- 94% accuracy — custom CNN trained on 50K+ leaf images
+- Treatment engine powered by Gemma LLM
+- Real-time weather API + soil condition context
+
+`Flask` `TypeScript` `React` `TensorFlow` `Gemma LLM`
 
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**⚡ Sentinel AI**
-Smart home energy management — 35% simulated energy reduction via predictive analytics, real-time emergency detection with automatic power rerouting in under 2 seconds.
+**■ SCHOLAR AI**
+`EdTech + Academic Integrity`
 
-`TensorFlow` `Langchain` `Flask` `React`
+AI proctoring + plagiarism detection platform for exam integrity and automated grading workflows.
 
-</td>
-<td width="33%" valign="top">
+- 96% plagiarism detection via Gemini + semantic similarity
+- 15+ cheating behaviours detected with 89% precision
+- Grading automation via Make.com — significant time reduction
 
-**🎓 EduSaarthi**
-AI education platform — recognised as **Best Innovation Stall** at IIC Regional Meet 2025 (Govt. of India). Adaptive learning with NLP-powered curriculum.
-
-`React` `NLP` `Node.js` `Firebase`
+`OpenCV` `dlib` `NLP` `Gemini API` `React` `Firebase`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**🌐 More coming...**
-Always building. Always shipping. Check the repos for the latest experiments in agentic AI, geospatial intelligence & embodied robotics.
+**■ SANJIVANI**
+`Personal Health OS for Elderly`
 
-[![GitHub](https://img.shields.io/badge/View%20All-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya-Kumrawat)
+Full-stack IoT healthcare ecosystem for elderly care — medication intelligence, IoT vitals, emergency response.
+
+- ESP32-based MedIOT: heart rate, SpO2, temp, fall detection
+- OCR pill scanner + OpenFDA drug interaction detection
+- Emergency QR — allergy/meds accessible without login
+
+`Kotlin` `ESP32` `Firebase` `OpenFDA` `OCR` `RAG`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**■ SENTINEL AI**
+`Smart Energy Management`
+
+AI-powered home energy optimization with predictive load balancing and emergency power rerouting.
+
+- 35% simulated energy reduction via predictive analytics
+- Critical system rerouting (medical, security) in under 2 seconds
+- Analytics dashboard with cost predictions + usage graphs
+
+`TensorFlow` `Langchain` `Flask` `React` `Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+**■ SO101 ROBOTICS**
+`Embodied AI + Reinforcement Learning`
+
+Trained SO101 robotic arms using Vision-Language-Action models and RL algorithms for strategic gameplay.
+
+- Policy architectures: SmolVLA + ACT (Action Chunking Transformer)
+- Custom RL — multi-step planning for Tic-Tac-Toe
+- Policy convergence across multiple manipulation tasks
+
+`Python` `SmolVLA` `ACT` `Reinforcement Learning`
 
 </td>
 </tr>
 </table>
 
-</details>
-
 ---
 
-## `$ cat ./tech-stack.json`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&text=%5B%2003%20%5D%20%20TECH%20STACK&fontSize=20&fontColor=FFE000&fontAlign=15&fontAlignY=55&animation=fadeIn" width="100%"/>
+
+<br/>
 
 <div align="center">
 
-### Languages
-[![Languages](https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css&perline=8)](https://skillicons.dev)
+**LANGUAGES**
 
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,tailwind,vite,figma&perline=8)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css&perline=10)](https://skillicons.dev)
 
-### Backend & Databases
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgresql,firebase&perline=8)](https://skillicons.dev)
+**FRONTEND · BACKEND · DATABASES**
 
-### AI / ML & Robotics
-[![AI/ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,express,flask,mongodb,postgresql,mysql,firebase&perline=10)](https://skillicons.dev)
 
-`YOLOv8` `Hugging Face` `LangGraph` `Mediapipe` `dlib` `scikit-learn` `SmolVLA` `ACT`
+**AI / ML**
 
-### Geospatial & Earth Observation
+[![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=10)](https://skillicons.dev)
+
+`YOLOv8` `Hugging Face` `LangGraph` `Mediapipe` `dlib` `scikit-learn` `SmolVLA` `ACT Transformer` `OpenAI GPT`
+
+**GEOSPATIAL / EARTH OBSERVATION**
+
 `Rasterio` `GDAL` `ESA Sentinel-1/2/3/5P` `NASA Earthdata` `Google Earth Engine` `NDVI` `Leaflet.js`
 
-### Cloud & DevOps
-[![Cloud](https://skillicons.dev/icons?i=azure,gcp,docker,git,github,vercel&perline=8)](https://skillicons.dev)
+**CLOUD · DEVOPS**
 
-`Firebase` `Snowflake` `Render` `Make.com` `N8n`
+[![Cloud](https://skillicons.dev/icons?i=azure,gcp,docker,git,github,vercel&perline=10)](https://skillicons.dev)
+
+`Snowflake` `Render` `Make.com` `N8n` `VAPI` `Twilio`
 
 </div>
 
 ---
 
-## `$ git log --oneline --graph --all`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Kumrawat&bg_color=0D1117&color=a78bfa&line=7c3aed&point=00ff88&area=true&area_color=a78bfa20&hide_border=true&custom_title=Contribution%20Activity%20Graph&radius=8" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&text=%5B%2004%20%5D%20%20GITHUB%20ACTIVITY&fontSize=20&fontColor=FFE000&fontAlign=18&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Kumrawat&bg_color=ffffff&color=000000&line=FFE000&point=000000&area=true&area_color=FFE00040&hide_border=false&custom_title=CONTRIBUTION+GRAPH&radius=0&title_color=000000" width="100%"/>
+
+<br/>
+
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Kumrawat&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=00ff88&text_color=C9D1D9&ring_color=a78bfa&include_all_commits=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Kumrawat&show_icons=true&count_private=true&theme=default&hide_border=false&bg_color=ffffff&title_color=000000&icon_color=FFE000&text_color=000000&ring_color=FFE000&include_all_commits=true&border_color=000000" height="175"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kumrawat&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=C9D1D9" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kumrawat&layout=compact&langs_count=8&count_private=true&theme=default&hide_border=false&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000" height="175"/>
 </td>
 </tr>
 </table>
 
-### 🏆 Trophy Cabinet
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya-Kumrawat&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
+> ⚡ **1,294 contributions** in the last year — go to **Profile → Contribution Settings → enable Private Contributions** to show your full activity
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-Kumrawat/Aditya-Kumrawat/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya-Kumrawat/Aditya-Kumrawat/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Aditya-Kumrawat/Aditya-Kumrawat/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-> ⚙️ To activate the snake: add a **GitHub Actions workflow** to your profile repo that generates the SVG. [See guide →](https://github.com/Platane/snk)
-
-</div>
-
----
-
-## `$ cat ./achievements.log`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚔️ Hackathon Record
-
-| Rank | Event | Format |
-|------|-------|--------|
-| 🥇 | HackWave 2.0 | **WINNER** · 36hr National |
-| 🥇 | AI Fusion Hackathon | **WINNER** |
-| 🥈 | Kriyeta 5.0 | 1st Runner-Up · 36hr National |
-| 🥈 | Innovik 5.0 | 1st Runner-Up · 24hr National |
-| 🥈 | SnowHacks | 1st Runner-Up · National |
-| 🥈 | Mediverse | 1st Runner-Up · 12hr |
-| 🥈 | Datacraft MongoDB | 1st Runner-Up · National |
-| 🥈 | Tech-O-Tsav | 1st Runner-Up · Web + Innovation |
-| 🎯 | LaserHack — Lasell Univ. 🇺🇸 | **Top 4 · International** |
-
-**8+ victories · 15+ battles**
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Research & Recognition
-
-| Award | Venue |
-|-------|-------|
-| 📄 Published | SICA International Conference 2024 |
-| 🏅 Best Innovation | IIC Regional Meet 2025 (Govt. of India) |
-
-*"Designing Agentic AI Systems Using Deep Neural Networks in Dynamic Environments" — 40% improvement over rule-based systems*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&text=%5B%2005%20%5D%20%20ACHIEVEMENTS&fontSize=20&fontColor=FFE000&fontAlign=17&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 <br/>
 
-### 🎓 Certifications · 18+
+<table>
+<tr>
+<td width="55%" valign="top">
 
-| Issuer | Focus |
-|--------|-------|
-| 🛸 ISRO | AI/ML for Crop Area Mapping |
-| ⚡ NVIDIA | Deep Learning for Computer Vision |
-| 🎓 Stanford | Supervised ML (Regression & Classification) |
-| ☁️ Google Cloud | MLOps · Production ML Systems |
-| 🪟 Microsoft | AI & ML Foundations |
-| 🎓 Harvard | CS50 · Aspire Leaders Program |
-| 🔷 Infosys | DL · NLP · Transformers · Prompt Engineering |
+### ⚔️ HACKATHON RECORD
+
+```
+BATTLE                      RESULT          FORMAT
+─────────────────────────────────────────────────────
+HackWave 2.0                WINNER    ──    36hr National
+AI Fusion Hackathon         WINNER    ──    National
+Kriyeta 5.0                 RUNNER-UP ──    36hr National
+Innovik 5.0                 RUNNER-UP ──    24hr National
+SnowHacks                   RUNNER-UP ──    National
+Mediverse                   RUNNER-UP ──    12hr
+Datacraft MongoDB           RUNNER-UP ──    National
+Tech-O-Tsav                 RUNNER-UP ──    Web + Innovation
+LaserHack @ Lasell USA 🇺🇸   TOP 4     ──    International
+─────────────────────────────────────────────────────
+8+ WINS  ·  15+ BATTLES  ·  NEVER QUIT
+```
+
+</td>
+<td width="45%" valign="top">
+
+### 📚 RESEARCH + RECOGNITION
+
+```
+AWARD                    VENUE
+──────────────────────────────────────────
+Published Paper          SICA Intl. Conf.
+                         2024
+Best Innovation Stall    IIC Regional Meet
+                         Govt. of India
+──────────────────────────────────────────
+```
+
+*"Designing Agentic AI Systems Using Deep Neural Networks in Dynamic Environments"*
+→ **40% improvement** over rule-based systems
+
+### 🏛️ LEADERSHIP
+```
+Student In-Charge  ·  Robotics Lab
+                       Solo Tech USA × AITR
+ACM Chapter        ·  Designer & Content Lead
+                       200+ members · 1K+ reach
+```
 
 </td>
 </tr>
@@ -311,24 +291,68 @@ Always building. Always shipping. Check the repos for the latest experiments in 
 
 ---
 
-## `$ ping ./connect`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&text=%5B%2006%20%5D%20%20CERTIFICATIONS&fontSize=20&fontColor=FFE000&fontAlign=20&fontAlignY=55&animation=fadeIn" width="100%"/>
+
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Kumrawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumrawat27)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.kumrawat27@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Aditya--Kumrawat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya-Kumrawat)
+| Issuer | Certification |
+|--------|--------------|
+| 🛸 **ISRO** | AI/ML for Satellite Crop Area Mapping |
+| ⚡ **NVIDIA** | Fundamentals of Deep Learning for Computer Vision |
+| 🎓 **Stanford** | Supervised Machine Learning: Regression & Classification |
+| ☁️ **Google Cloud** | Production ML Systems · MLOps Fundamentals |
+| 🪟 **Microsoft** | Foundations of Artificial Intelligence & Machine Learning |
+| 🎓 **Harvard** | CS50: Intro to Computer Science · Aspire Leaders Program |
+| 🔷 **Infosys** | Deep Learning · NLP · Transformers · Prompt Engineering (×4) |
 
-<br/>
+**18+ CERTIFICATIONS TOTAL**
 
-> *"I didn't wait to finish my degree to start building the future."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,70:302b63,100:0D1117&height=140&section=footer&text=Let%27s%20build%20something%20that%20matters&fontSize=18&fontColor=FFFFFF&animation=twinkling&fontAlignY=60" width="100%"/>
-
-<sub>Built with precision · Shipped with intent · Updated continuously</sub>
+![ISRO](https://img.shields.io/badge/ISRO-000?style=flat-square&labelColor=FF6B00&color=000000)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-000?style=flat-square&labelColor=76B900&color=000000)
+![Stanford](https://img.shields.io/badge/Stanford-000?style=flat-square&labelColor=8C1515&color=000000)
+![Google](https://img.shields.io/badge/Google%20Cloud-000?style=flat-square&labelColor=4285F4&color=000000)
+![Microsoft](https://img.shields.io/badge/Microsoft-000?style=flat-square&labelColor=0089D6&color=000000)
+![Harvard](https://img.shields.io/badge/Harvard-000?style=flat-square&labelColor=A51C30&color=000000)
+![Infosys](https://img.shields.io/badge/Infosys-000?style=flat-square&labelColor=007CC3&color=000000)
 
 </div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&text=%5B%2007%20%5D%20%20TROPHIES&fontSize=20&fontColor=FFE000&fontAlign=14&fontAlignY=55&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Aditya-Kumrawat&theme=flat&no-frame=true&no-bg=false&row=1&column=7&margin-w=6" width="100%"/>
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFE000&height=80&text=LET%27S%20BUILD%20SOMETHING%20THAT%20MATTERS&fontSize=22&fontColor=000000&fontAlign=50&fontAlignY=55&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=8" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/aditya-kumrawat27)
+&nbsp;
+[![Email](https://img.shields.io/badge/DROP%20A%20MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:aditya.kumrawat27@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/VIEW%20REPOS-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/Aditya-Kumrawat)
+
+<br/>
+
+```
+"I didn't wait to finish my degree to start building the future."
+                                         — ADITYA KUMRAWAT
+                                           FOUNDER @ TERRAQUERY
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=8" width="100%"/>
