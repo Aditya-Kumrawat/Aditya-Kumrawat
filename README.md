@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="./banner.png" width="100%"/>
+</div>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=8" width="100%"/>
 
