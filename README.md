@@ -5,9 +5,6 @@
   <img src="./banner1.png" width="100%"/>
 </div>
 <div align="center">
-  <img src="./banner2.png" width="100%"/>
-</div>
-<div align="center">
   <img src="./banner3.png" width="100%"/>
 </div>
 <div align="center">
